@@ -1,0 +1,10 @@
+{
+  "name": "ri4-modulos-cadastro-clientes",
+  "version": "1.0.0",
+  "description": "Módulo ES6 com classes Empresa, Cliente, Telefone e Endereco",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
